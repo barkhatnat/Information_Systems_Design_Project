@@ -112,7 +112,7 @@
 
 #### 2.2. Блок-схема решения  
 
-- СХЕМА ТУТ !!!!!!
+![Блок-схема решения](https://github.com/barkhatnat/Information_Systems_Design_Project/blob/main/Блок-схема%20решения/block-schema.drawio.png)
 
 #### 2.3. Этапы решения задачи 
 
@@ -181,7 +181,6 @@
         - API-слой прогноза (Python + Flask)
         - Модель (Python + TensorFlow)
     - **Хранилища данных:**
-        - PostgreSQL для транзакционных и оперативных данных о продажах 
         - DWH (Amazon Redshift / Google BigQuery / Snowflake) для исторических витрин
 
 - Плюсы и минусы выбора:
