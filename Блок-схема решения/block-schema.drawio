@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0 (Edition std-2)" version="27.1.1">
+  <diagram name="Страница — 1" id="XmN0hoWXaWDnPfx7zP07">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XBTU4SKRWG83ZdgOyCLl-1" target="XBTU4SKRWG83ZdgOyCLl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="XBTU4SKRWG83ZdgOyCLl-1" target="XBTU4SKRWG83ZdgOyCLl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-1" value="Этап 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Подготовка и &lt;br&gt;анализ данных&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="80" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XBTU4SKRWG83ZdgOyCLl-2" target="XBTU4SKRWG83ZdgOyCLl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-2" value="Этап 2&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Построение &lt;br&gt;прогнозной модели&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="80" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XBTU4SKRWG83ZdgOyCLl-4" target="XBTU4SKRWG83ZdgOyCLl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="XBTU4SKRWG83ZdgOyCLl-4" target="XBTU4SKRWG83ZdgOyCLl-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-4" value="Этап 3&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Интерпретация и согласование&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="80" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XBTU4SKRWG83ZdgOyCLl-6" target="XBTU4SKRWG83ZdgOyCLl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="XBTU4SKRWG83ZdgOyCLl-6" target="XBTU4SKRWG83ZdgOyCLl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-6" value="Этап 4&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Интеграция &lt;br&gt;бизнес-правил&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="80" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XBTU4SKRWG83ZdgOyCLl-8" target="XBTU4SKRWG83ZdgOyCLl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-8" value="Этап 5&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Инференс модели&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="80" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XBTU4SKRWG83ZdgOyCLl-10" target="XBTU4SKRWG83ZdgOyCLl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-10" value="Этап 6&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Оптимизатор заказов&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="80" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="XBTU4SKRWG83ZdgOyCLl-12" target="XBTU4SKRWG83ZdgOyCLl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-12" value="Этап 7&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Подготовка &lt;br&gt;финального отчета&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-14" value="Показ заказчику" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1045" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-16" value="Показ заказчику" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-17" value="Показ заказчику" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBTU4SKRWG83ZdgOyCLl-18" value="Показ заказчику" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
