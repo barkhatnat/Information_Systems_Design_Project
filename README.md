@@ -249,3 +249,10 @@ Response:
 - Сбой передачи данных → отсутствие новых прогнозов
 - Сбой сервиса → задержка рекомендаций
 - Рост нагрузки → падение SLA
+
+### 5. Ссылки на диаграммы
+- [Модели бизнес-процессов](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=IDEF0.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1RF0DhizPtuLulDeqU_gBeKKYFByXruA2%26export%3Ddownload)
+- [Диаграмма структуры данных](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=ER.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1r8WoNDP5FZDbgCTqDlA5r7un6J_7sGTN%26export%3Ddownload)
+- [Диаграмма архитектуры системы](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=C4.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D18Nxg3AA1KvWP1WD67KG2JgjBz6taVFCe%26export%3Ddownload#%7B"pageId"%3A"27XsrQHmJQv-H2r86Rup"%7D)
+- [Структурная UML-диграмма](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=UML.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1h8RATDseQKCi_-qLdlmV_e8FWRNkQF_B%26export%3Ddownload)
+- [Поведенческая UML диаграмма](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1lnqQgNGbcam-DTETzQ5bf2G3JyT5bwwb%26export%3Ddownload)
