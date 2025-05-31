@@ -247,7 +247,7 @@ Response:
 
 - Сбой передачи данных → отсутствие новых прогнозов
 - Сбой сервиса → задержка рекомендаций
-- Рост нагрузки → падение SLA
+- Рост нагрузки → падение SLI
 
 ### 5. Ссылки на диаграммы
 - [Модели бизнес-процессов](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=IDEF0.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1RF0DhizPtuLulDeqU_gBeKKYFByXruA2%26export%3Ddownload)
