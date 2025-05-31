@@ -169,7 +169,8 @@
 ### 4. Внедрение  
 
 #### 4.1. Архитектура решения   
-  
+
+![Диаграмма архитектуры системы](https://github.com/barkhatnat/Information_Systems_Design_Project/blob/main/Диаграмма%20архитектуры%20системы/C4-Context.drawio.png)
 - [Ссылка на архитектуру схемы](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=C4.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D18Nxg3AA1KvWP1WD67KG2JgjBz6taVFCe%26export%3Ddownload)
   
 #### 4.2. Описание инфраструктуры и масштабируемости 
@@ -229,7 +230,7 @@ Content-Type: application/json
 
 Request:
 {
-    "sku_id": 1,                                // id товара в БД
+    "product_id": 1,                            // id товара в БД
     "store_id": 2,                              // id магазина в БД
     "start_date": "30.05.2025",                 // день начала рекомандаций
     "end_date": "03.06.2025"                    // день конца рекомандаций (проверка на лимит 14 дней)
